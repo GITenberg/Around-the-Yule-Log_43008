@@ -1,0 +1,32 @@
+_repo: Around-the-Yule-Log_43008
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Willis Boyd
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '41542'
+    url: http://www.gutenberg.org/2009/agents/41542
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: Around the yule log -- The shadow of Christmas present -- 'Lijah
+  -- A Christmas reverie -- The cracked bell -- Christmas folk-lore -- Mrs. Brownlow's
+  Christmas party -- Christmas on wheels -- Treasure trove; a Christmas story -- Charity
+  and evergreen -- Through the storm.
+title: Around the Yule Log
+url: http://www.gutenberg.org/ebooks/43008
